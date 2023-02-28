@@ -1,3 +1,11 @@
+# Reference Video and Code 
+Miguel Lopez, Youtube Video "Login con React (Parte 1)", 2022, Retrieved by JEVG on 2023 from:
+https://www.youtube.com/watch?v=0gk6K80lN8g&t=219s
+
+
+
+ORIGINAL README:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
