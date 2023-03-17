@@ -1,4 +1,4 @@
-# pAIyHost English
+# Nalton pAIy APP English
 
 <div align="center">
 <h1> The React project for the Grizzlython Hackaton is in the MASTER branch. 
@@ -203,12 +203,12 @@ NFT Changarros
 
 
 
-# pAIyHost Spanish
+# Nalton pAIY APP Spanish
 
 <div align="center">
-<h1> The React project for the Grizzlython Hackaton is in the MASTER branch. 
-<br> you can find the upload project at:  https://www.paiy.app/ 
-<br> <b> To React proyect: <b> <em> User: Nalton   ;   Password: 123  </em></h1>
+<h1> El proyecto React para el Grizzlython Hackaton está en la rama MASTER. 
+<br> puede encontrar el proyecto de carga en:  https://www.paiy.app/ 
+<br> <b> Para el Proyecto en React: <b> <em> User: Nalton   ;   Password: 123  </em></h1>
 </div>
 
 
@@ -217,7 +217,7 @@ NFT Changarros
 <a title="Proyect Name" href="https://www.paiy.app/"  target="_blank"><img src="https://github.com/bancambios/PaiyApp-Hackaton-Etherfuse/blob/main/Images/ProyectName%7D.png"  width="400" height="75"></a>
  
  <div align="center">
-<h2>  Nalton Paiy App - "Pequenio Corredor Veloz!" / Nalton in Nauatl (Aztec) means: Little fast runner!
+<h2>  Nalton Paiy App - "Pequenio Corredor Veloz!" 
 </h2>
 </div>
  
@@ -238,15 +238,15 @@ NFT Changarros
 <div align="justify">
 <h3>UI Flow</h3>
 <ul>
- 	<li><b> Registration page: </b> The registration page would allow users to create an account on the application using their social network accounts. The registration page could include fields for profile information, such as name, email address, and profile picture.
+ 	<li><b> Página de Registro: </b> La página de registro permitiría a los usuarios crear una cuenta en la aplicación utilizando sus cuentas de redes sociales. The registration page could include fields for profile information, such as name, email address, and profile picture.
 <ul>
- 	<li><b> Login page: </b> The login page would allow users to log into the application using their social networking accounts. Users could log in with their existing profile information from Facebook, Twitter, or another social network.
+ 	<li><b> Página Login: </b> La página de inicio de sesión permitiría a los usuarios acceder a la aplicación utilizando sus cuentas de redes sociales. Los usuarios podrían iniciar sesión con su información de perfil existente de Facebook, Twitter u otra red social.
 <ul>
- 	<li><b> Profile page: </b> The profile page would display the user's profile information, including their profile picture, name and other personal information they provided during registration. From the profile page, users would also be able to access their USDC wallets and perform transactions.
+ 	<li><b> Página de perfil </b> La página de perfil mostraría la información del usuario, incluida su foto de perfil, su nombre y otros datos personales facilitados durante el registro. Desde la página de perfil, los usuarios también podrán acceder a sus monederos USDC y realizar transacciones.
 <ul>
- <li><b> Transaction page: </b> The transactions page would allow users to send and receive remittances in USDC, pay for services or products in USDC, and invest in DeFi through smart contracts. The transaction page could include fields for entering the amount of USDC to send or receive, the recipient or service provider, and a list of recent transactions.
+ <li><b> Página de Transacciones: </b> La página de transacciones permitiría a los usuarios enviar y recibir remesas en USDC, pagar servicios o productos en USDC e invertir en DeFi a través de contratos inteligentes. La página de transacciones podría incluir campos para introducir la cantidad de USDC a enviar o recibir, el destinatario o proveedor de servicios y una lista de transacciones recientes.
 <ul>
- <li><b> Navigation menu: </b> The navigation menu would be a fixed element in the application that would allow users to navigate between the different pages of the application. The navigation menu could include links to the registration page, the login page, the profile page, and the transactions page.
+ <li><b> Navegación en Menú: </b> El menú de navegación sería un elemento fijo de la aplicación que permitiría a los usuarios navegar entre las distintas páginas de la aplicación. El menú de navegación podría incluir enlaces a la página de registro, la página de inicio de sesión, la página de perfil y la página de transacciones.
 </ul></div>
 
 
